@@ -1,0 +1,12 @@
+
+body{
+    background-image: linear-gradient(to bottom left, lightblue, blue);
+}
+#cim{
+    padding-bottom: 15px;
+}
+.card{
+    float: left;
+    margin: 5px auto;
+    border-radius: 0;
+}
